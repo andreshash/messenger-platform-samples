@@ -1,6 +1,6 @@
 {
-    "appSecret": "",
-    "pageAccessToken": "",
-    "validationToken": "",
-    "serverURL": ""
+    "appSecret": "ec8e96ef0df7c81bc1f23ca607c03261",
+    "pageAccessToken": "EAAXYBzFogZBABAOlDMpW8CAsUnZBZAXAB9ZCX6XBe1LrSlhXlpHS4YGhAuXkMnVVDZCC8gyPNJiw2BsREMrfBOiXMq1ZBJeqWtRMtYRb39O7bl44AP1DtmyCTgW6a4lylPA5desCQYKT6ZA1ZBNroZAyvV7TSCIN3CJGNnrHBu4ji8wZDZD",
+    "validationToken": "hola123",
+    "serverURL": "https://messengerbot-andreshash.c9users.io"
 }
